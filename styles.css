@@ -1,0 +1,102 @@
+body {
+            background-color: #323234;
+			font-family: 'Raleway', sans-serif;
+			align-content: center;
+		}
+
+		a {
+			color: #A9B0B3;
+			font-size: 16px;
+			padding-left: 68px;
+			text-decoration: none;
+		}
+
+		a:hover {
+			color: dimgrey
+		}
+
+		h2 {
+			color: #ccc;
+			font-size: 20px;
+			padding-left: 15px;
+		}
+
+		h3 {
+			color: white;
+			font-size: 18px;
+			padding-left: 15px;
+		}
+
+		p {
+			color: rgba(143, 145, 153, 0.678);
+			font-size: 16px;
+			font-weight: 500;
+			
+			border: 0px;
+			text-align: center;
+		}
+
+		hr {
+			color:transparent;
+			background-color:transparent;
+			margin-right: 10px;
+			margin-left: 10px;
+			height: 1px;
+			border: none;
+		}
+
+		.search {
+			width: 400px;
+			height: 24px;
+			text-align: center;
+			font-size: 16px;
+			color: #ccc;
+			background-color: transparent;
+			border: 1px transparent;
+		}
+
+		.search:hover {
+			border: 1px transparent;
+		}
+
+		#title {
+			position: left;
+			margin-left: auto;
+			margin-right: auto;
+			width: 624px;
+			padding-bottom: 12px;
+			padding-top: 80px;
+		}
+
+		#wrapper {
+			position: center;
+			margin-left: auto;
+			margin-right: auto;
+			width: 624px;
+			height: 214px;
+		}
+
+		#gap {
+			padding: 6px;
+			float: right;
+		}
+
+		#Group {
+			width: 200px;
+			height: 200px;
+			float: left;
+			background-color: transparent;
+		}
+
+		#logo {
+			padding-top: 13vh;
+			text-align: center;
+		}
+		
+		#logo h1 {
+			font-weight: 100;
+			font-size: 3rem;
+			margin-bottom: 0;
+			color: #cfcfcf;
+		}
+		
